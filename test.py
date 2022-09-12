@@ -1,5 +1,5 @@
 
 print('hello World!')
-# this is a *** comment
+# this is a sensible comment
 print('testing continues')
 # added work
